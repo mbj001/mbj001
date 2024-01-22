@@ -1,6 +1,6 @@
 ### ABOUT ME
 신입 개발자 민병준 입니다.
-<hr>
+<hr/>
 
 ### Skills
 <div>
@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
 </div>
-<hr>
+<hr/>
 
 ### Tools
 <div>
