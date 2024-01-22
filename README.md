@@ -1,7 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=MBJ's%20github!!&fontSize=70" />
 
 ### ABOUT ME
-신입 개발자 민병준 입니다.
+<div align="center>
+  <h3>신입 개발자 민병준 입니다.</h3>
+</div>
 <hr/>
 
 ### Skills
